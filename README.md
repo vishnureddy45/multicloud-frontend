@@ -1,4 +1,3 @@
-# basic-react-form
-## The branches of this project are sorted in the order they were coded.
+#React Form.
 
 run commanad for run application : `npm start`
